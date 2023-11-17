@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\bin\Debug\net7.0\senha.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\bin\Debug\net7.0\senha.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\bin\Debug\net7.0\senha.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\bin\Debug\net7.0\senha.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\bin\Debug\net7.0\senha.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\obj\Debug\net7.0\senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\obj\Debug\net7.0\senha.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\obj\Debug\net7.0\senha.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\obj\Debug\net7.0\senha.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\obj\Debug\net7.0\senha.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\obj\Debug\net7.0\refint\senha.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\obj\Debug\net7.0\senha.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\obj\Debug\net7.0\senha.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\senha\senha\obj\Debug\net7.0\ref\senha.dll
